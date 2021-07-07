@@ -1,4 +1,4 @@
-<?
+<?php
 $lang = array(
 	'select_choose' => 'Choose one',
 	'error' => 'Sorry, there was an error',
